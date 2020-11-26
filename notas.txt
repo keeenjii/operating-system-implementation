@@ -1,0 +1,13 @@
+Módulos a serem implementados:
+
+	Gerenciamento de memória
+	Escalonador de processos
+	Gerenciamento de entrada/saída
+	Sistema de arquivos
+
+Sobre o Gerencimamento de entrada e saída:
+
+	Possivelmente o melhor modo de implementação é utilizar
+	Entrada/Saída via acesso direto a memória, utilizando uma unidade
+	de controle de entrada/saida
+	
